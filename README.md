@@ -1,2 +1,4 @@
-# INDZ
+INDZ
+She jakisj paralelni zminy
+===
 
